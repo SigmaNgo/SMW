@@ -1,6 +1,5 @@
-# Publiczny Rejestr Danych Straży Miejskiej Wrocław
 (Please scroll down for [English version](#wroclaw-municipal-police-open-data))
-
+# Publiczny Rejestr Danych Straży Miejskiej Wrocław
 Dla wszystkich zbiorów danych udostępnionych na portalu mają zastosowanie następujące zastrzeżenia:
 * ponowne wykorzystanie informacji udostępnionej na portalu następuje na własną odpowiedzialność korzystającego;
 * w żadnym z wypadków Zarządzający Portalem, Właściciel Portalu, ani żadna Organizacja udostępniająca dane nie ponosi odpowiedzialności za ewentualną szkodę wynikającą z ponownego wykorzystania informacji publicznej przez korzystającego lub innych użytkowników;
