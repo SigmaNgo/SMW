@@ -1,6 +1,6 @@
-# Sigma Foundation
+# Wroclaw Municipal Police Open Data
 
-This is the source for our website http://www.sigma.ngo.
+This is the source for the website http://sigma.ngo/WroclawMunicipalPoliceOpenData.
 
 ## License
 
