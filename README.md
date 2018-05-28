@@ -1,5 +1,15 @@
 (Please scroll down for [English version](#wroclaw-municipal-police-open-data))
 # Publiczny Rejestr Danych Straży Miejskiej Wrocław
+
+1. [Jak SM Wrocław tworzy swoje dane](#wroclaw-municipal-police-open-data)
+1. [Zbiór danych](#wroclaw-municipal-police-open-data)
+1. [Regulamin używania udostępnianych tutaj danych](#wroclaw-municipal-police-open-data)
+
+## Jak SM Wrocław tworzy swoje dane
+
+## Zbiór danych
+
+## Regulamin używania udostępnianych tutaj danych
 Dane zmieszczone tutaj stanowią informację publiczną w rozumieniu ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz.U. Nr 112, poz. 1198, z późn. zm.).
 
 Dla wszystkich zbiorów danych udostępnionych tutaj zastosowanie mają następujące zastrzeżenia:
