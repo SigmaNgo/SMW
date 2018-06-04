@@ -14,7 +14,7 @@ SMW - Straż Miejska Wrocławia
 |Wniosek        |Odpowiedź SMW  |
 | ------------- | ------------- |
 |[Wniosek z pytaniami o rejestr zgłoszeń](requestForData/wniosek_rejestr_zgloszen.txt "z dnia 19 kwietnia 2018")|[Odpowiedź](requestForData/odpowiedz_rejestr_zgloszen.gif "z dnia 27 kwietnia 2018")|
-|[Wniosek z pytaniami o SUMPRO](requestForData/wniosek_sumpro.txt "z dnia 28 kwietnia 2018")|Odpowiedź|
+|[Wniosek z pytaniami o SUMPRO](requestForData/wniosek_sumpro.txt "z dnia 28 kwietnia 2018")|[Odpowiedź](requestForData/odpowiedz_sumpro.gif "z dnia 11 maja 2018")|
 
 ## Zbiór danych
 
