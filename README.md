@@ -3,7 +3,7 @@
 
 1. Podstawowe pojęcia
 
-SMW - Straż Miejska Wrocławia
+SMW - Straż Miejska Wrocławia<br>
 BIP - Biuletyn Informacji Publicznej
 
 1. [Jak SMW tworzy swoje dane](#jak-smw-tworzy-swoje-dane)
@@ -46,4 +46,4 @@ Należy także wziąć po uwagę rozróżnienie pomiędzy rejestrem zgłoszeń a
 * zastrzega się, że zamieszczonye tu informacje mogą być nieaktualne lub zawierać błędy.
 
 # Wroclaw Municipal Police Open Data
-This is the source for the website Wrocław Municipal Police Open Data
+This is the source for the website Wrocław Municipal Police Open Data.
