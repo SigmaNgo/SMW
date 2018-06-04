@@ -4,6 +4,7 @@
 1. Podstawowe pojęcia
 
 SMW - Straż Miejska Wrocławia
+BIP - Biuletyn Informacji Publicznej
 
 1. [Jak SM Wrocław tworzy swoje dane](#jak-sm-wroc%C5%82aw-tworzy-swoje-dane)
 1. [Zbiór danych](#zbi%C3%B3r-danych)
@@ -11,10 +12,14 @@ SMW - Straż Miejska Wrocławia
 
 ## Jak SMW tworzy swoje dane
 
+Aby zrozumieć jakie dane są w udostępnionych tutaj danych, najpierw należy sięgnąć do informacji jak są one tworzone. Informacje te nie są dostępne w BIP SMW więc zostały udostępnione na wniosek.
+
 |Wniosek        |Odpowiedź SMW  |
 | ------------- | ------------- |
 |[Wniosek z pytaniami o rejestr zgłoszeń](requestForData/wniosek_rejestr_zgloszen.txt "z dnia 19 kwietnia 2018")|[Odpowiedź](requestForData/odpowiedz_rejestr_zgloszen.gif "z dnia 27 kwietnia 2018")|
 |[Wniosek z pytaniami o SUMPRO](requestForData/wniosek_sumpro.txt "z dnia 28 kwietnia 2018")|[Odpowiedź](requestForData/odpowiedz_sumpro.gif "z dnia 11 maja 2018")|
+
+Z informacji tych można dowiedzieć się między innymi skąd pochodzi numeracja zgłoszeń w bazie danych (która jest nieciągła i wcześniej prowadziło to do niejasności w interpretowaniu niniejszych danych).
 
 ## Zbiór danych
 
