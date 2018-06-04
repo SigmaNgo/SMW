@@ -4,6 +4,7 @@
 ## Podstawowe pojęcia
 
 > SMW - Straż Miejska Wrocławia
+
 > BIP - Biuletyn Informacji Publicznej
 
 1. [Jak SMW tworzy swoje dane](#jak-smw-tworzy-swoje-dane)
