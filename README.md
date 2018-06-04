@@ -42,7 +42,7 @@ Należy także wziąć po uwagę rozróżnienie pomiędzy rejestrem zgłoszeń a
 1. Dane zmieszczone tutaj stanowią informację publiczną w rozumieniu ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz.U. Nr 112, poz. 1198, z późn. zm.).
 1. Dane te zostały udostępnione na wniosek.
 1. Dla wszystkich zbiorów danych udostępnionych tutaj zastosowanie mają następujące zastrzeżenia:
-* ponowne wykorzystanie informacji udostępnionej tutaj następuje na własną odpowiedzialność korzystającego;
+* korzystanie z informacji udostępnionej tutaj następuje na własną odpowiedzialność;
 * w żadnym z wypadków Zarządzający, Właściciel, ani żadna Organizacja udostępniająca dane nie ponosi odpowiedzialności za ewentualną szkodę wynikającą z ponownego wykorzystania informacji publicznej przez korzystającego lub innych użytkowników;
 * zastrzega się, że zamieszczonye tu informacje mogą być nieaktualne lub zawierać błędy.
 
