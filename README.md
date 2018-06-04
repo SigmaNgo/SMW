@@ -3,17 +3,17 @@
 
 1. Podstawowe pojęcia
 
-SM - Straż Miejska Wrocławia
+SMW - Straż Miejska Wrocławia
 
 1. [Jak SM Wrocław tworzy swoje dane](#jak-sm-wroc%C5%82aw-tworzy-swoje-dane)
 1. [Zbiór danych](#zbi%C3%B3r-danych)
 1. [Regulamin używania udostępnianych tutaj danych](#regulamin-u%C5%BCywania-udost%C4%99pnianych-tutaj-danych)
 
-## Jak SM Wrocław tworzy swoje dane
+## Jak SMW tworzy swoje dane
 
-|Wniosek        |Odpowiedź SM   |
+|Wniosek        |Odpowiedź SMW  |
 | ------------- | ------------- |
-|[Wniosek z pytaniami o rejestr zgłoszeń](requestForData/wniosek_rejestr_zgloszen.txt "z dnia 19 kwietnia 2018")|Odpowiedź|
+|[Wniosek z pytaniami o rejestr zgłoszeń](requestForData/wniosek_rejestr_zgloszen.txt "z dnia 19 kwietnia 2018")|[Odpowiedź](requestForData/odpowiedz_rejestr_zgloszen.gif "z dnia 27 kwietnia 2018")|
 |[Wniosek z pytaniami o SUMPRO](requestForData/wniosek_sumpro.txt "z dnia 28 kwietnia 2018")|Odpowiedź|
 
 ## Zbiór danych
