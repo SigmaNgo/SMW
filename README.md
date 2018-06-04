@@ -20,19 +20,30 @@ Aby zrozumieć jakie dane są w udostępnionych tutaj danych, najpierw należy s
 |[Wniosek z pytaniami o SUMPRO](requestForData/wniosek_sumpro.txt "z dnia 28 kwietnia 2018")|[Odpowiedź](requestForData/odpowiedz_sumpro.gif "z dnia 11 maja 2018")|
 |[Wniosek z pytaniami o rejestr mandatów](requestForData/wniosek_rejestr_mandatow.txt "z dnia 15 maja 2018")|[Odpowiedź](requestForData/odpowiedz_rejestr_mandatow.gif "z dnia 25 maja 2018")|
 
-Z informacji tych można dowiedzieć się między innymi skąd pochodzi numeracja zgłoszeń w bazie danych (która jest nieciągła i wcześniej prowadziło to do niejasności w interpretowaniu niniejszych danych).
+Z informacji tych można dowiedzieć się między innymi jak numerowane są zgłoszenia w udostępnionych danych.
+
+Należy także rozróżnić interwencje od zgłoszeń. Każde zgłoszenie, np. przez obywatela Wrocławia, do SWM skutkuje interwencją (i te właśnie zgłoszenia są udostępnione w poniższym zbiorze), natomiast nie każda interwencja SWM pochodzi ze zgłoszenia (np. SMW realizuje zadania zlecone w inny sposób niż przez zgłoszenia od obywateli).
+
+Należy także wziąć po uwagę rozróżnienie pomiędzy rejestrem zgłoszeń a rejestrem mandatów oraz że nie wszystkie interwencje znajdują się w udostępnionym poniżej zbiorze.
 
 ## Nieprzetworzone zbiory danych
 
+### Rejestr zgłoszeń
+
+[na razie pusty]
+
+### Rejestr mandatów
+
+[na razie pusty]
+
 ## Regulamin używania udostępnianych tutaj danych
-Dane zmieszczone tutaj stanowią informację publiczną w rozumieniu ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz.U. Nr 112, poz. 1198, z późn. zm.).
 
-Dane te zostały udostępnione na wniosek.
-
-Dla wszystkich zbiorów danych udostępnionych tutaj zastosowanie mają następujące zastrzeżenia:
+1. Dane zmieszczone tutaj stanowią informację publiczną w rozumieniu ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz.U. Nr 112, poz. 1198, z późn. zm.).
+1. Dane te zostały udostępnione na wniosek.
+1. Dla wszystkich zbiorów danych udostępnionych tutaj zastosowanie mają następujące zastrzeżenia:
 * ponowne wykorzystanie informacji udostępnionej tutaj następuje na własną odpowiedzialność korzystającego;
 * w żadnym z wypadków Zarządzający, Właściciel, ani żadna Organizacja udostępniająca dane nie ponosi odpowiedzialności za ewentualną szkodę wynikającą z ponownego wykorzystania informacji publicznej przez korzystającego lub innych użytkowników;
-* zastrzega się, że niektóre z ponownie wykorzystywanych informacji publicznych przetworzonych przez osoby trzecie mogą być nieaktualne lub zawierać błędy.
+* zastrzega się, że zamieszczonye tu informacje mogą być nieaktualne lub zawierać błędy.
 
 # Wroclaw Municipal Police Open Data
 This is the source for the website Wrocław Municipal Police Open Data
