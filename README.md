@@ -1,12 +1,6 @@
 (Please scroll down for [English version](#wroclaw-municipal-police-open-data))
 # Publiczny Rejestr Danych Straży Miejskiej Wrocław
 
-## Podstawowe pojęcia
-
-> SMW - Straż Miejska Wrocławia
-
-> BIP - Biuletyn Informacji Publicznej
-
 1. [Jak SMW tworzy swoje dane](#jak-smw-tworzy-swoje-dane)
 1. [Nieprzetworzone zbiory danych](#nieprzetworzone-zbiory-danych)
 1. [Regulamin używania udostępnianych tutaj danych](#regulamin-u%C5%BCywania-udost%C4%99pnianych-tutaj-danych)
@@ -45,6 +39,12 @@ Należy także wziąć po uwagę rozróżnienie pomiędzy rejestrem zgłoszeń a
 * ponowne wykorzystanie informacji udostępnionej tutaj następuje na własną odpowiedzialność korzystającego;
 * w żadnym z wypadków Zarządzający, Właściciel, ani żadna Organizacja udostępniająca dane nie ponosi odpowiedzialności za ewentualną szkodę wynikającą z ponownego wykorzystania informacji publicznej przez korzystającego lub innych użytkowników;
 * zastrzega się, że zamieszczonye tu informacje mogą być nieaktualne lub zawierać błędy.
+
+## Podstawowe pojęcia
+
+> SMW - Straż Miejska Wrocławia
+
+> BIP - Biuletyn Informacji Publicznej
 
 # Wroclaw Municipal Police Open Data
 This is the source for the website Wrocław Municipal Police Open Data.
