@@ -6,8 +6,8 @@
 SMW - Straż Miejska Wrocławia
 BIP - Biuletyn Informacji Publicznej
 
-1. [Jak SM Wrocław tworzy swoje dane](#jak-sm-wroc%C5%82aw-tworzy-swoje-dane)
-1. [Zbiór danych](#zbi%C3%B3r-danych)
+1. [Jak SMW tworzy swoje dane](#jak-sm-wroc%C5%82aw-tworzy-swoje-dane)
+1. [Nieprzetworzone zbiory danych](#zbi%C3%B3r-danych)
 1. [Regulamin używania udostępnianych tutaj danych](#regulamin-u%C5%BCywania-udost%C4%99pnianych-tutaj-danych)
 
 ## Jak SMW tworzy swoje dane
