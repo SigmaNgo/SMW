@@ -23,7 +23,7 @@ Aby zrozumieć jakie dane są w udostępnionych tutaj danych, najpierw należy s
 
 Z informacji tych można dowiedzieć się między innymi jak numerowane są zgłoszenia w udostępnionych danych.
 
-Należy także rozróżnić interwencje od zgłoszeń. Każde zgłoszenie, np. przez obywatela Wrocławia, do SWM skutkuje interwencją (i te właśnie zgłoszenia są udostępnione w poniższym zbiorze), natomiast nie każda interwencja SWM pochodzi ze zgłoszenia (np. SMW realizuje zadania zlecone w inny sposób niż przez zgłoszenia od obywateli).
+Należy także rozróżnić interwencje od zgłoszeń. Każde zgłoszenie do SWM, np. przez obywatela Wrocławia, skutkuje interwencją (i te właśnie zgłoszenia są udostępnione w [poniższym zbiorze "Rejestr zgłoszeń"](#rejestr-zg%C5%82osze%C5%84)), natomiast nie każda interwencja SWM pochodzi ze zgłoszenia (np. SMW realizuje zadania zlecone w inny sposób niż przez zgłoszenia od obywateli). Co oczywiste, nie każda interwencja skutkuje mandatem.
 
 Należy także wziąć po uwagę rozróżnienie pomiędzy rejestrem zgłoszeń a rejestrem mandatów oraz że nie wszystkie interwencje znajdują się w udostępnionym poniżej zbiorze.
 
