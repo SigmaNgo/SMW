@@ -1,11 +1,20 @@
 (Please scroll down for [English version](#wroclaw-municipal-police-open-data))
 # Publiczny Rejestr Danych Straży Miejskiej Wrocław
 
+1. Podstawowe pojęcia
+
+SM - Straż Miejska Wrocławia
+
 1. [Jak SM Wrocław tworzy swoje dane](#jak-sm-wroc%C5%82aw-tworzy-swoje-dane)
 1. [Zbiór danych](#zbi%C3%B3r-danych)
 1. [Regulamin używania udostępnianych tutaj danych](#regulamin-u%C5%BCywania-udost%C4%99pnianych-tutaj-danych)
 
 ## Jak SM Wrocław tworzy swoje dane
+
+|Wniosek        |Odpowiedź SM   |
+| ------------- | ------------- |
+|[Wniosek z pytaniami o rejestr zgłoszeń](requestForData/wniosek_rejestr_zgloszen.txt "z dnia 19 kwietnia 2018")|Odpowiedź|
+|[Wniosek z pytaniami o SUMPRO](requestForData/wniosek_sumpro.txt "z dnia 28 kwietnia 2018")|Odpowiedź|
 
 ## Zbiór danych
 
