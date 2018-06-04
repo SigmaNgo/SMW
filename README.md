@@ -5,6 +5,12 @@
 1. [Nieprzetworzone zbiory danych](#nieprzetworzone-zbiory-danych)
 1. [Regulamin używania udostępnianych tutaj danych](#regulamin-u%C5%BCywania-udost%C4%99pnianych-tutaj-danych)
 
+## Podstawowe pojęcia
+
+> SMW - Straż Miejska Wrocławia
+
+> BIP - Biuletyn Informacji Publicznej
+
 ## Jak SMW tworzy swoje dane
 
 Aby zrozumieć jakie dane są w udostępnionych tutaj danych, najpierw należy sięgnąć do informacji jak są one tworzone. Informacje te nie są dostępne w BIP SMW więc zostały udostępnione na wniosek.
@@ -39,12 +45,6 @@ Należy także wziąć po uwagę rozróżnienie pomiędzy rejestrem zgłoszeń a
 * ponowne wykorzystanie informacji udostępnionej tutaj następuje na własną odpowiedzialność korzystającego;
 * w żadnym z wypadków Zarządzający, Właściciel, ani żadna Organizacja udostępniająca dane nie ponosi odpowiedzialności za ewentualną szkodę wynikającą z ponownego wykorzystania informacji publicznej przez korzystającego lub innych użytkowników;
 * zastrzega się, że zamieszczonye tu informacje mogą być nieaktualne lub zawierać błędy.
-
-## Podstawowe pojęcia
-
-> SMW - Straż Miejska Wrocławia
-
-> BIP - Biuletyn Informacji Publicznej
 
 # Wroclaw Municipal Police Open Data
 This is the source for the website Wrocław Municipal Police Open Data.
