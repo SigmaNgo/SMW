@@ -42,6 +42,10 @@ Należy także wziąć po uwagę rozróżnienie pomiędzy rejestrem zgłoszeń a
 
 [na razie pusty]
 
+## Plany na przyszłość
+
+Chcemy aby we Wrocławiu powstał portal z otwartymi danymi na wzór [tego które ma miasto Cambridge, MA](http://www.cambridgema.gov/departments/opendata). Chcielibyśmy użyć narzędzia typu https://dev.socrata.com/. Dane na temat SMW miałyby być pierwszą cegiełką budującą ten portal.
+
 ## Regulamin używania udostępnianych tutaj danych
 
 1. Dane zmieszczone tutaj stanowią informację publiczną w rozumieniu ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz.U. Nr 112, poz. 1198, z późn. zm.).
