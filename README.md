@@ -44,7 +44,7 @@ Należy także wziąć po uwagę rozróżnienie pomiędzy rejestrem zgłoszeń a
 
 ## Plany na przyszłość
 
-Chcemy aby we Wrocławiu powstał portal z otwartymi danymi na wzór [tego które ma miasto Cambridge, MA](http://www.cambridgema.gov/departments/opendata). Chcielibyśmy użyć narzędzia typu https://dev.socrata.com/. Dane na temat SMW miałyby być pierwszą cegiełką budującą ten portal.
+Chcemy aby we Wrocławiu powstał portal z otwartymi danymi na wzór [tego które ma miasto Cambridge, MA](http://www.cambridgema.gov/departments/opendata). Chcielibyśmy użyć narzędzia typu https://dev.socrata.com/. Dane na temat SMW miałyby być pierwszą cegiełką budującą ten portal. Z kolei to narzędzie http://messytables.readthedocs.io ma zostać wykorzystane do porządkowania udostępnionych nam danych.
 
 ## Regulamin używania udostępnianych tutaj danych
 
