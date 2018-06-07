@@ -3,6 +3,8 @@
 
 [Otwarte dane](https://project-open-data.cio.gov/principles/ ) są strategicznym zasobem instytucji publicznych i obywateli. Chcemy włączyć się do dyskusji na temat potrzeby istnienia Straży Miejskiej Wrocławia. Trudno dyskutować na ten temat nie posiadając informacji o tym jak Straż Miejska Wrocławia realizuje swoje. Dane te do tej pory były niedostępne dla obywateli. Nasza praca ma za zadanie udostępnić te dane zgodnie z ideą "otwartych danych".
 
+Podobny zbiór danych znajduje się [tutaj](https://data.cambridgema.gov/Traffic-Parking-and-Transportation/Cambridge-Parking-Tickets/vnxa-cuyr) - jest to zbiór mandatów dla amerykańskiego miasta Cambridge, MA.
+
 1. [Podstawowe pojęcia](#podstawowe-poj%C4%99cia)
 1. [Jak SMW tworzy swoje dane](#jak-smw-tworzy-swoje-dane)
 1. [Nieprzetworzone zbiory danych](#nieprzetworzone-zbiory-danych)
