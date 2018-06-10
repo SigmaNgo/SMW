@@ -8,6 +8,7 @@ Podobny zbiór danych znajduje się [tutaj](https://data.cambridgema.gov/Traffi
 1. [Podstawowe pojęcia](#podstawowe-poj%C4%99cia)
 1. [Jak SMW tworzy swoje dane](#jak-smw-tworzy-swoje-dane)
 1. [Nieprzetworzone zbiory danych](#nieprzetworzone-zbiory-danych)
+1. [Plany na przyszłość](#plany-na-przysz%C5%82o%C5%9B%C4%87)
 1. [Regulamin używania udostępnianych tutaj danych](#regulamin-u%C5%BCywania-udost%C4%99pnianych-tutaj-danych)
 
 ## Podstawowe pojęcia
@@ -34,11 +35,9 @@ Należy także wziąć po uwagę rozróżnienie pomiędzy rejestrem zgłoszeń a
 
 ## Nieprzetworzone zbiory danych
 
-[LINK](https://github.com/SigmaNgo/WroclawMunicipalPoliceOpenData/tree/master/rawData) do danych tak jak zostały one udostępnione przez SMW (czyli bez jakiejkolwiek obróbki).
-
 ### Rejestr zgłoszeń
 
-[na razie pusty]
+[LINK](https://github.com/SigmaNgo/WroclawMunicipalPoliceOpenData/tree/master/rawData) do danych tak jak zostały one udostępnione przez SMW (czyli bez jakiejkolwiek obróbki).
 
 ### Rejestr mandatów
 
