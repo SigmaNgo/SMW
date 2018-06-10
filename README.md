@@ -34,7 +34,7 @@ Należy także wziąć po uwagę rozróżnienie pomiędzy rejestrem zgłoszeń a
 
 ## Nieprzetworzone zbiory danych
 
-[LINK](https://github.com/SigmaNgo/WroclawMunicipalPoliceRawData/tree/master/dataSet) do danych tak jak zostały one udostępnione przez SMW (czyli bez jakiejkolwiek obróbki).
+[LINK](rawData/) do danych tak jak zostały one udostępnione przez SMW (czyli bez jakiejkolwiek obróbki).
 
 ### Rejestr zgłoszeń
 
