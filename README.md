@@ -34,6 +34,8 @@ Należy także wziąć po uwagę rozróżnienie pomiędzy rejestrem zgłoszeń a
 
 ## Nieprzetworzone zbiory danych
 
+[LINK](https://github.com/SigmaNgo/WroclawMunicipalPoliceRawData/tree/master/dataSet) do danych tak jak zostały one udostępnione przez SMW (czyli bez jakiejkolwiek obróbki).
+
 ### Rejestr zgłoszeń
 
 [na razie pusty]
@@ -56,4 +58,4 @@ Chcemy aby we Wrocławiu powstał portal z otwartymi danymi na wzór [tego któr
 * zastrzega się, że zamieszczonye tu informacje mogą być nieaktualne lub zawierać błędy.
 
 # Wroclaw Municipal Police Open Data
-This is the source for the website Wrocław Municipal Police Open Data.
+This is the source for the website Wrocław Municipal Police Open Data. We are seeking volunteer who would translate it to English, feel invited to apply!
