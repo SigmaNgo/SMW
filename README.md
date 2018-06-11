@@ -9,7 +9,7 @@ Podobny zbiór danych znajduje się [tutaj](https://data.cambridgema.gov/Traffi
 1. [Jak SMW tworzy swoje dane](#jak-smw-tworzy-swoje-dane)
 1. [Nieprzetworzone zbiory danych](#nieprzetworzone-zbiory-danych)
 1. [Plany na przyszłość](#plany-na-przysz%C5%82o%C5%9B%C4%87)
-1. [Regulamin używania udostępnianych tutaj danych](#regulamin-u%C5%BCywania-udost%C4%99pnianych-tutaj-danych)
+1. [Regulamin używania](#regulamin-u%C5%BCywania-udost%C4%99pnianych-tutaj-danych)
 
 ## Podstawowe pojęcia
 
@@ -43,15 +43,26 @@ Należy także wziąć po uwagę rozróżnienie pomiędzy rejestrem zgłoszeń a
 
 [na razie pusty]
 
+## Przetworzone zbiory danych
+
+### Rejestr zgłoszeń
+
+[LINK](/transformedData) do przetworzonych przez nas danych. Przetworzenie polega na:
+
+### Rejestr mandatów
+
+[na razie pusty]
+
 ## Plany na przyszłość
 
 Chcemy aby we Wrocławiu powstał portal z otwartymi danymi na wzór [tego które ma miasto Cambridge, MA](http://www.cambridgema.gov/departments/opendata). Chcielibyśmy użyć narzędzia typu https://dev.socrata.com/. Dane na temat SMW miałyby być pierwszą cegiełką budującą ten portal. Z kolei to narzędzie http://messytables.readthedocs.io ma zostać wykorzystane do porządkowania udostępnionych nam danych.
 
-## Regulamin używania udostępnianych tutaj danych
+## Regulamin używania
 
-1. Dane zmieszczone tutaj stanowią informację publiczną w rozumieniu ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz.U. Nr 112, poz. 1198, z późn. zm.).
-1. Dane te zostały udostępnione na wniosek.
-1. Dla wszystkich zbiorów danych udostępnionych tutaj zastosowanie mają następujące zastrzeżenia:
+1. Kod w tym repozytorium jest udostępniony pod licencją [LINK](https://github.com/SigmaNgo/SMW/blob/master/LICENSE.md).
+1. [Nieprzetworzone dane](/rawData) zmieszczone w tym repozytorium stanowią informację publiczną w rozumieniu ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz.U. Nr 112, poz. 1198, z późn. zm.). Dane te zostały udostępnione na wniosek.
+1. [Przetworzone dane](/transformedData) zmieszczone w tym repozytorium stanowią informację publiczną w rozumieniu ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz.U. Nr 112, poz. 1198, z późn. zm.). Dane te zostały udostępnione na wniosek.
+1. Dla wszystkich zbiorów danych w tym repozytorium zastosowanie mają następujące zastrzeżenia:
 * korzystanie z informacji udostępnionej tutaj następuje na własną odpowiedzialność;
 * w żadnym z wypadków Zarządzający, Właściciel, ani żadna Organizacja udostępniająca dane nie ponosi odpowiedzialności za ewentualną szkodę wynikającą z ponownego wykorzystania informacji publicznej przez korzystającego lub innych użytkowników;
 * zastrzega się, że zamieszczonye tu informacje mogą być nieaktualne lub zawierać błędy.
