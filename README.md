@@ -68,9 +68,7 @@ Chcemy aby we Wrocławiu powstał portal z otwartymi danymi na wzór [tego któr
 
 # Widzisz błąd?
 
-Koniecznie zgłoś go [tutaj](https://github.com/SigmaNgo/
-
-/issues).
+Koniecznie zgłoś go [tutaj](https://github.com/SigmaNgo/SMW/issues).
 
 # Wroclaw Municipal Police Open Data
 This is the source for the website Wrocław Municipal Police Open Data. We are seeking volunteer who would translate it to English, feel invited to apply!
