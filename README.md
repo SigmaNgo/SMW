@@ -5,27 +5,20 @@ Otwarte dane [LINK](https://project-open-data.cio.gov/principles/), [LINK](http:
 
 Podobny zbiór danych znajduje się [tutaj](https://data.cambridgema.gov/Traffic-Parking-and-Transportation/Cambridge-Parking-Tickets/vnxa-cuyr) - jest to zbiór mandatów dla amerykańskiego miasta Cambridge, MA.
 
-1. [Podstawowe pojęcia](#podstawowe-poj%C4%99cia)
-1. [Jak SMW tworzy swoje dane](#jak-smw-tworzy-swoje-dane)
+1. [Jak Straż Miejska Wrocławia tworzy swoje dane](#jak-smw-tworzy-swoje-dane)
 1. [Nieprzetworzone zbiory danych](#nieprzetworzone-zbiory-danych)
 1. [Plany na przyszłość](#plany-na-przysz%C5%82o%C5%9B%C4%87)
 1. [Regulamin używania](#regulamin-u%C5%BCywania-udost%C4%99pnianych-tutaj-danych)
-
-## Podstawowe pojęcia
-
-> SMW - Straż Miejska Wrocławia
-
-> BIP - Biuletyn Informacji Publicznej
 
 ## Wiki
 
 Wiki zawiera instrukcje jak przetwarzane są dane.
 
-## Jak SMW tworzy swoje dane
+## Jak Straż Miejska Wrocławia tworzy swoje dane
 
-Aby zrozumieć jakie dane są w udostępnionych tutaj danych, najpierw należy sięgnąć do informacji jak są one tworzone. Informacje te nie są dostępne w BIP SMW więc zostały udostępnione na wniosek.
+Aby zrozumieć jakie dane są w udostępnionych tutaj danych, najpierw należy sięgnąć do informacji jak są one tworzone. Informacje te nie są dostępne w Biletunie Informacji Publicznej Straży Miejskiej Wrocławia więc zostały udostępnione na wniosek.
 
-|Wniosek        |Odpowiedź SMW  |
+|Wniosek        |Odpowiedź Straży Miejskiej Wrocławia |
 | ------------- | ------------- |
 |[Wniosek z pytaniami o rejestr zgłoszeń](requestForData/wniosek_rejestr_zgloszen.txt "z dnia 19 kwietnia 2018")|[Odpowiedź](requestForData/odpowiedz_rejestr_zgloszen.gif "z dnia 27 kwietnia 2018")|
 |[Wniosek z pytaniami o SUMPRO](requestForData/wniosek_sumpro.txt "z dnia 28 kwietnia 2018")|[Odpowiedź](requestForData/odpowiedz_sumpro.gif "z dnia 11 maja 2018")|
@@ -33,7 +26,7 @@ Aby zrozumieć jakie dane są w udostępnionych tutaj danych, najpierw należy s
 
 Z informacji tych można dowiedzieć się między innymi jak numerowane są zgłoszenia w udostępnionych danych.
 
-Należy także rozróżnić interwencje od zgłoszeń. Każde zgłoszenie do SWM, np. przez obywatela Wrocławia, skutkuje interwencją (i te właśnie zgłoszenia są udostępnione w [poniższym zbiorze "Rejestr zgłoszeń"](#rejestr-zg%C5%82osze%C5%84)), natomiast nie każda interwencja SWM pochodzi ze zgłoszenia (np. SMW realizuje zadania zlecone w inny sposób niż przez zgłoszenia od obywateli). Co oczywiste, nie każda interwencja skutkuje mandatem.
+Należy także rozróżnić interwencje od zgłoszeń. Każde zgłoszenie do Straży Miejskiej Wrocławia, np. przez obywatela Wrocławia, skutkuje interwencją (i te właśnie zgłoszenia są udostępnione w [poniższym zbiorze "Rejestr zgłoszeń"](#rejestr-zg%C5%82osze%C5%84)), natomiast nie każda interwencja SWM pochodzi ze zgłoszenia (np. Straż Miejska Wrocławia realizuje zadania zlecone w inny sposób niż przez zgłoszenia od obywateli). Co oczywiste, nie każda interwencja skutkuje mandatem.
 
 Należy także wziąć po uwagę rozróżnienie pomiędzy rejestrem zgłoszeń a rejestrem mandatów oraz że nie wszystkie interwencje znajdują się w udostępnionym poniżej zbiorze.
 
@@ -41,7 +34,7 @@ Należy także wziąć po uwagę rozróżnienie pomiędzy rejestrem zgłoszeń a
 
 ### Rejestr zgłoszeń
 
-[LINK](rawData/rawData.md) do danych tak jak zostały one udostępnione przez SMW (czyli bez jakiejkolwiek obróbki).
+[LINK](rawData/rawData.md) do danych tak jak zostały one udostępnione przez Straż Miejską Wrocławia (czyli bez jakiejkolwiek obróbki).
 
 ### Rejestr mandatów
 
@@ -59,7 +52,7 @@ Należy także wziąć po uwagę rozróżnienie pomiędzy rejestrem zgłoszeń a
 
 ## Plany na przyszłość
 
-Chcemy aby we Wrocławiu powstał portal z otwartymi danymi na wzór [tego które ma miasto Cambridge, MA](http://www.cambridgema.gov/departments/opendata). Chcielibyśmy użyć narzędzia typu https://dev.socrata.com/. Dane na temat SMW miałyby być pierwszą cegiełką budującą ten portal. Z kolei to narzędzie http://messytables.readthedocs.io ma zostać wykorzystane do porządkowania udostępnionych nam danych.
+Chcemy aby we Wrocławiu powstał portal z otwartymi danymi na wzór [tego które ma miasto Cambridge, MA](http://www.cambridgema.gov/departments/opendata). Chcielibyśmy użyć narzędzia typu https://dev.socrata.com/. Dane na temat Straży Miejskiej Wrocławia miałyby być pierwszą cegiełką budującą ten portal. Z kolei to narzędzie http://messytables.readthedocs.io ma zostać wykorzystane do porządkowania udostępnionych nam danych.
 
 ## Regulamin używania
 
@@ -75,7 +68,9 @@ Chcemy aby we Wrocławiu powstał portal z otwartymi danymi na wzór [tego któr
 
 # Widzisz błąd?
 
-Koniecznie zgłoś go [tutaj](https://github.com/SigmaNgo/SMW/issues).
+Koniecznie zgłoś go [tutaj](https://github.com/SigmaNgo/
+
+/issues).
 
 # Wroclaw Municipal Police Open Data
 This is the source for the website Wrocław Municipal Police Open Data. We are seeking volunteer who would translate it to English, feel invited to apply!
