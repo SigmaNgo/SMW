@@ -1,6 +1,6 @@
 # Nieprzetworzone dane
 
-Zamieszczone poniżej dane to dane nieprzetworzone (czyli bez jakiejkolwiek obróbki). Stanowią one informację publiczną w rozumieniu ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz.U. Nr 112, poz. 1198, z późn. zm.). Dane te zostały udostępnione na wniosek (tu [LINK](wniosek_zgloszenia.txt) do przykładowego wniosku o udostępnienie informacji publicznej).
+Zamieszczone poniżej zbiory to dane nieprzetworzone udostępnione przez Straż Miejską Wrocławia (czyli bez jakiejkolwiek obróbki). Stanowią one informację publiczną w rozumieniu ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz.U. Nr 112, poz. 1198, z późn. zm.). Dane te zostały udostępnione na wniosek (tu [LINK](wniosek_zgloszenia.txt) do przykładowego wniosku o udostępnienie informacji publicznej).
 
 |Data złożenia wniosku|Data wytworzenia|Plik z danymi  |
 | -------------- | -------------- | ------------- |
