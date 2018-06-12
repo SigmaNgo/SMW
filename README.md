@@ -41,7 +41,7 @@ Należy także wziąć po uwagę rozróżnienie pomiędzy rejestrem zgłoszeń a
 
 ### Rejestr zgłoszeń
 
-[LINK](/rawData) do danych tak jak zostały one udostępnione przez SMW (czyli bez jakiejkolwiek obróbki).
+[LINK](rawData/rawData.md) do danych tak jak zostały one udostępnione przez SMW (czyli bez jakiejkolwiek obróbki).
 
 ### Rejestr mandatów
 
@@ -51,7 +51,7 @@ Należy także wziąć po uwagę rozróżnienie pomiędzy rejestrem zgłoszeń a
 
 ### Rejestr zgłoszeń
 
-[LINK](/transformedData) do przetworzonych przez nas danych. Przetworzenie polega na:
+[LINK](transformedData/transformedData.md) do przetworzonych przez nas danych. Przetworzenie polega na:
 
 ### Rejestr mandatów
 
@@ -66,7 +66,7 @@ Chcemy aby we Wrocławiu powstał portal z otwartymi danymi na wzór [tego któr
 1. Bądź odpowiedzialny.
 1. Kod w tym repozytorium jest udostępniony pod licencją [LINK](/LICENSE.md).
 1. [Nieprzetworzone dane](rawData/rawData.md) zmieszczone w tym repozytorium stanowią informację publiczną w rozumieniu ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz.U. Nr 112, poz. 1198, z późn. zm.). Dane te zostały udostępnione na wniosek.
-1. [Przetworzone dane](/transformedData) zmieszczone w tym repozytorium stanowią informację publiczną w rozumieniu ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz.U. Nr 112, poz. 1198, z późn. zm.). Dane te zostały udostępnione na wniosek.
+1. [Przetworzone dane](transformedData/transformedData.md) zmieszczone w tym repozytorium stanowią informację publiczną w rozumieniu ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz.U. Nr 112, poz. 1198, z późn. zm.). Dane te zostały udostępnione na wniosek.
 1. Dla wszystkich zbiorów danych w tym repozytorium zastosowanie mają następujące zastrzeżenia:
 * w przypadku wykorzystania danych zmieszczonych w tym repozytorium należy dodać przypis informujący o źródle pochodzenia;
 * korzystanie z informacji udostępnionej tutaj następuje na własną odpowiedzialność;
