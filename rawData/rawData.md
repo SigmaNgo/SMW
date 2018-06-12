@@ -1,4 +1,6 @@
-# Test
+# Nieprzetworzone dane
+
+Zamieszczone poniżej dane to dane nieprzetworzone (czyli bez jakiejkolwiek obróbki). Stanowią one informację publiczną w rozumieniu ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz.U. Nr 112, poz. 1198, z późn. zm.). Dane te zostały udostępnione na wniosek (tu [LINK](wniosek_zgloszenia.txt) do przykładowego wniosku o udostępnienie informacji publicznej).
 
 |Data wytworzenia|Plik z danymi  |
 | -------------- | ------------- |
