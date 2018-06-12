@@ -1,0 +1,14 @@
+Na podstawie art. 2 ust. 1 ustawy o dostępie do informacji publicznej z dnia 6 września 2001 r. (Dz. U. Nr 112, poz. 1198 ze zm.) zwracam się z wnioskiem o udostępnienie rejestru zgłoszonych do Straży Miejskiej we Wrocławiu interwencji od XX.XX.XXXX do XX.XX.XXXX wraz z informacją:
+- nr zgłoszenia w bazie danych Straży Miejskiej
+- dokładne miejsce interwencji
+- data i godzina zgłoszenia
+- data i godzina rozpoczęcia interwencji
+- data i godzina zakończenia interwencji
+- opis interwencji
+- typ interwencji
+- status interwencji
+- w przypadku wystawienia mandatu w ramach interwencji, kwota mandatu
+
+Wnioskowane informacje proszę udostępnić w formie tekstu a nie zeskanowanych dokumentów tak aby z informacjami mogła się zapoznać, przez system odczytywania dokumentów, osoba niewidoma.
+
+Wnioskowane informacje proszę odesłać pocztą elektroniczną na adres XXXXXXX
