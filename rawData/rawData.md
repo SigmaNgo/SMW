@@ -21,6 +21,6 @@ Zamieszczone poniżej zbiory to dane nieprzetworzone udostępnione przez Straż 
 |21.03.2018|26.03.2018|[15 interwencje 06.03.2018 do 20.03.2018.doc](/rawData/14%20interwencje%2016.02.2018%20do%2005.03.2018.doc "KI.0214.12.2018.SC")| tak |
 |11.04.2018|24.04.2018|[16 interwencje 21.03.2018 do 10.04.2018.docx](/rawData/16%20interwencje%2021.03.2018%20do%2010.04.2018.docx "KI.0214.19.2018.SC")| tak |
 |10.05.2018|21.05.2018|[17 interwencje 11.04.2018 do 09.05.2018.doc](/rawData/17%20interwencje%2011.04.2018%20do%2009.05.2018.doc "KI.0214.25.2018.SC")| tak |
-|10.06.2018|--.--.----|[18 interwencje 10.05.2018 do 10.06.2018.doc](? "------------------")| N/W |
+|10.06.2018|19.06.2018|[18 interwencje 10.05.2018 do 10.06.2018.doc](? "KI.0214.30.2018.SC")| N/W |
 
 N/W oznacza "nie wnioskowano o ponowne wykorzystanie"
