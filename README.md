@@ -12,7 +12,7 @@ Podobny zbiór danych znajduje się [tutaj](https://data.cambridgema.gov/Traffi
 
 ## Wiki
 
-Wiki zawiera instrukcje jak przetwarzane są dane.
+[Wiki](https://github.com/SigmaNgo/SMW/wiki) zawiera m.in. instrukcje jak przetwarzane są dane.
 
 ## Jak Straż Miejska Wrocławia tworzy swoje dane
 
@@ -44,7 +44,7 @@ Należy także wziąć po uwagę rozróżnienie pomiędzy rejestrem zgłoszeń a
 
 ### Rejestr zgłoszeń
 
-[LINK](./transformedData/transformedData.md) do przetworzonych przez nas danych. Przetworzenie polega na:
+[LINK](./transformedData/transformedData.md) do przetworzonych przez nas danych. Aby sprawdzić na czym polega przetworzenie sprawdź [Wiki](https://github.com/SigmaNgo/SMW/wiki).
 
 ### Rejestr mandatów
 
