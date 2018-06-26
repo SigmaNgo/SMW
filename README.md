@@ -7,12 +7,10 @@ Podobny zbiór danych znajduje się [tutaj](https://data.cambridgema.gov/Traffi
 
 1. [Jak Straż Miejska Wrocławia tworzy swoje dane](#jak-stra%C5%BCmiejska-wroc%C5%82awia-tworzy-swoje-dane)
 1. [Nieprzetworzone zbiory danych](#nieprzetworzone-zbiory-danych)
+1. [Przetworzone zbiory danych](#przetworzone-zbiory-danych)
 1. [Plany na przyszłość](#plany-na-przysz%C5%82o%C5%9B%C4%87)
 1. [Regulamin używania](#regulamin-u%C5%BCywania-udost%C4%99pnianych-tutaj-danych)
-
-## Wiki
-
-[Wiki](https://github.com/SigmaNgo/SMW/wiki) zawiera m.in. instrukcje jak przetwarzane są dane.
+1. [Wiki](#wiki)
 
 ## Jak Straż Miejska Wrocławia tworzy swoje dane
 
@@ -67,6 +65,10 @@ Chcemy aby we Wrocławiu powstał portal z otwartymi danymi na wzór [tego któr
 * korzystanie z informacji udostępnionej tutaj następuje na własną odpowiedzialność;
 * w żadnym z wypadków Zarządzający, Właściciel, ani żadna Organizacja udostępniająca dane nie ponosi odpowiedzialności za ewentualną szkodę wynikającą z ponownego wykorzystania informacji publicznej przez korzystającego lub innych użytkowników;
 * zastrzega się, że zamieszczonye tu informacje mogą być nieaktualne lub zawierać błędy.
+
+## Wiki
+
+[Wiki](https://github.com/SigmaNgo/SMW/wiki) zawiera m.in. instrukcje jak przetwarzane są dane.
 
 # Widzisz błąd?
 
