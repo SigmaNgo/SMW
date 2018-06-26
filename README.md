@@ -1,5 +1,5 @@
 (This is the source for the website Wrocław Municipal Police Open Data. Please scroll down for [English version](#wroclaw-municipal-police-open-data))
-# Publiczny Rejestr Danych Straży Miejskiej Wrocław
+# Publiczny Rejestr Danych Straży Miejskiej Wrocławia
 
 Otwarte dane [LINK](https://project-open-data.cio.gov/principles/), [LINK](http://www.opendatapolicies.org/browse/), [LINK](https://sunlightfoundation.com/2015/10/01/why-should-cities-have-an-open-data-policy/), [LINK](https://www.youtube.com/watch?v=ObrlsMA7c3M) są strategicznym zasobem instytucji publicznych i obywateli. Chcemy włączyć się do dyskusji na temat potrzeby istnienia Straży Miejskiej Wrocławia. Trudno dyskutować na ten temat nie posiadając informacji o tym jak Straż Miejska Wrocławia realizuje swoje. Dane te do tej pory były niedostępne dla obywateli. Nasza praca ma za zadanie udostępnić te dane zgodnie z ideą "otwartych danych".
 
