@@ -36,7 +36,7 @@ Należy także wziąć po uwagę rozróżnienie pomiędzy rejestrem zgłoszeń a
 
 [LINK](./rawData/rawData.md) do danych tak jak zostały one udostępnione przez Straż Miejską Wrocławia (czyli bez jakiejkolwiek obróbki *).
 
-_* z niestotnego tutaj powodu pliki .doc nie są dobrze obsługiwane przez skrypt tworzący z udostępnionych danych plkiki csv; tak więc dane które zostały nam udostępnione w formacie .doc zostały zmienione na format .docx; można przyjąć że są to wciąż dane nie dotknięte obróbką_
+_* z niestotnego tutaj powodu pliki .doc nie są dobrze obsługiwane przez skrypt tworzący z udostępnionych danych pliki csv; tak więc dane które zostały nam udostępnione w formacie .doc zostały zmienione na format .docx; można przyjąć że są to wciąż dane nieprzetworzone_
 
 ### Rejestr mandatów
 
