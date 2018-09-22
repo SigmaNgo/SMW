@@ -6,7 +6,7 @@ Otwarte dane [LINK](https://project-open-data.cio.gov/principles/), [LINK](http:
 Podobny zbiór danych znajduje się [tutaj](https://data.cambridgema.gov/Traffic-Parking-and-Transportation/Cambridge-Parking-Tickets/vnxa-cuyr) - jest to zbiór mandatów dla amerykańskiego miasta Cambridge, MA.
 
 1. [Jak Straż Miejska Wrocławia tworzy swoje dane](#jak-stra%C5%BCmiejska-wroc%C5%82awia-tworzy-swoje-dane)
-1. [Zbiory danych](#nieprzetworzone-zbiory-danych)
+1. [Zbiory danych](#zbiory-danych)
 1. [Plany na przyszłość](#plany-na-przysz%C5%82o%C5%9B%C4%87)
 1. [Regulamin używania](#regulamin-u%C5%BCywania-udost%C4%99pnianych-tutaj-danych)
 1. [Wiki](#wiki)
