@@ -6,8 +6,7 @@ Otwarte dane [LINK](https://project-open-data.cio.gov/principles/), [LINK](http:
 Podobny zbiór danych znajduje się [tutaj](https://data.cambridgema.gov/Traffic-Parking-and-Transportation/Cambridge-Parking-Tickets/vnxa-cuyr) - jest to zbiór mandatów dla amerykańskiego miasta Cambridge, MA.
 
 1. [Jak Straż Miejska Wrocławia tworzy swoje dane](#jak-stra%C5%BCmiejska-wroc%C5%82awia-tworzy-swoje-dane)
-1. [Nieprzetworzone zbiory danych](#nieprzetworzone-zbiory-danych)
-1. [Przetworzone zbiory danych](#przetworzone-zbiory-danych)
+1. [Zbiory danych](#nieprzetworzone-zbiory-danych)
 1. [Plany na przyszłość](#plany-na-przysz%C5%82o%C5%9B%C4%87)
 1. [Regulamin używania](#regulamin-u%C5%BCywania-udost%C4%99pnianych-tutaj-danych)
 1. [Wiki](#wiki)
@@ -28,7 +27,7 @@ Należy także rozróżnić interwencje od zgłoszeń. Każde zgłoszenie do Str
 
 Należy także wziąć po uwagę rozróżnienie pomiędzy rejestrem zgłoszeń a rejestrem mandatów oraz że nie wszystkie interwencje znajdują się w udostępnionym poniżej zbiorze.
 
-## Nieprzetworzone zbiory danych
+## Zbiory danych
 
 ### Rejestr zgłoszeń
 
@@ -36,19 +35,7 @@ Należy także wziąć po uwagę rozróżnienie pomiędzy rejestrem zgłoszeń a
 
 _* z niestotnego tutaj powodu pliki .doc nie są dobrze obsługiwane przez skrypt tworzący z udostępnionych danych pliki csv; tak więc dane które zostały nam udostępnione w formacie .doc zostały zmienione na format .docx; można przyjąć że są to wciąż dane nieprzetworzone_
 
-### Rejestr mandatów
-
-[na razie pusty]
-
-## Przetworzone zbiory danych
-
-### Rejestr zgłoszeń
-
 [LINK](./transformedData/transformedData.md) do przetworzonych przez nas danych. Aby sprawdzić na czym polega przetworzenie sprawdź [Wiki](https://github.com/SigmaNgo/SMW/wiki).
-
-### Rejestr mandatów
-
-[na razie pusty]
 
 ## Plany na przyszłość
 
