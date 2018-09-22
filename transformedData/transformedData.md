@@ -33,3 +33,9 @@
 [16 interwencje 21.03.2018 do 10.04.2018](./16%20interwencje%2021.03.2018%20do%2010.04.2018.csv "KI.0214.19.2018.SC")
 
 [17 interwencje 11.04.2018 do 09.05.2018](./17%20interwencje%2011.04.2018%20do%2009.05.2018.csv "KI.0214.25.2018.SC")
+
+18 Brak - do uzupełnienia
+
+[19 interwencje 11.06.2018 do 05.07.2018.csv](./19%20interwencje%2011.06.2018%20do%2005.07.2018.csv "XXXXXXXXXXXX")
+
+[20 interwencje 06.07.2018 do 05.09.2018.csv](./20%20interwencje%2006.07.2018%20do%2005.09.2018.csv "XXXXXXXXXXXX")
