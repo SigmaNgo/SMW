@@ -31,7 +31,9 @@ f = open(outputFilePath, 'wt')
 try:
     writer = csv.writer(f)
     textToBeExamined = textract.process(inputFilePatch, 'utf8').replace("|", "\n") #the replace is needed because (for unknown reason) .doc files has this characted while .docx does not
+    counter = len(re.findall(pattern, textToBeExamined))
     print(len(re.findall(pattern, textToBeExamined)))
+    writer.writerow(('Data Godzina', 'Numer', 'Opis', 'Typ', 'Miejsce', 'Status', 'Kwota Mandatu', 'Data Zakończenia'))
     for result in re.findall(pattern, textToBeExamined):
         writer.writerow(result)
 
